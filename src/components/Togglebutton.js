@@ -41,7 +41,7 @@ class Togglebutton extends Component {
             <div>
                 <div className="center-row">
                     <button onClick={this.handleClick} className={"mb-30 mb-sm-20 btn " + classStyle}>
-                        {this.state.isToggleOn ? 'PLANNER' : 'COMPANY LIST'}
+                        {this.state.isToggleOn ? 'PLANNER' : 'JOBS'}
                     </button>
                 </div>
                 {form}
