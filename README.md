@@ -1,11 +1,16 @@
 # React-Redux-Flexbox-App
 
-The app has two views:
+* The app has two views:
 
 1. Planner - To manage a list of plans
-2. Company List - To manage a list of prospective employers
 
-Layout & responsiveness is handled using Flexbox.
+![alt text](https://raw.githubusercontent.com/shwetashah246/React-Redux-Flexbox-App/master/screenshots/planner.png)
+
+2. Jobs - To manage a list of prospective employers
+
+![alt text](https://raw.githubusercontent.com/shwetashah246/React-Redux-Flexbox-App/master/screenshots/jobs.png)
+
+* Layout & responsiveness is handled using Flexbox.
 
 # Installation
 
