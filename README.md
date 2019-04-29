@@ -1,7 +1,8 @@
 # React-Redux-Flexbox-App
 
-Download & unzip
-run following command 
+A) Download & unzip
+
+B) Run following commands 
 
 1. npm start
-2. To build project change "homepage" attribute in package.josn and run - npm run build
+2. To build project change "homepage" attribute in package.json and run - npm run build
